@@ -23,6 +23,8 @@ body {
 #logo {
   /* margin-bottom: 15px; NEW */
   display: inline-block; /* NEW */
+  margin-left: -30px;
+  margin-bottom: -40px;
 }
 
 .sb-item {
@@ -36,7 +38,7 @@ body {
 }
 
 .sb-icon-list {
-  margin-bottom: 50px; /* NEW */
+  margin-bottom: 30px; /* NEW */
   width: 540px; /* NEW */
   display: inline-block;
 }
@@ -83,6 +85,8 @@ main {
 
 #big-image {
   margin-bottom: 50px;
+  width:730px;
+  height: 450px;  
 }
 
 #newsletter {
@@ -97,14 +101,14 @@ main {
   width: 317px;
   display: inline-block;
   font-size: .9em;
-  margin-right: 60px;
+  margin-right: 10px;
   padding-top: 5px;
 }
 
 .email-input {
   height: 30px;
   width: 170px;
-  margin-right: 30px;
+  margin-right: 10px;
 }
 
 .button {
@@ -113,7 +117,7 @@ main {
   -moz-border-radius: 42px;
   border-radius: 42px;
   font-size:12px;
-  padding: 5px 15px 5px 15px;
+  padding: 5px 10px 5px 10px;
   text-decoration:none;
   display:inline-block;
   text-shadow: 1px 1px 0 rgba(255,255,255,0.3);
@@ -135,7 +139,7 @@ main {
 
 .article {
   display: inline-block;
-  width: 166px;
+  width: 160px;
   margin-right: 16px;
 }
 
